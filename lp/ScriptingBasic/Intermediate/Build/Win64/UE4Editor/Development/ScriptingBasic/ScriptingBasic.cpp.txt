@@ -1,2 +1,0 @@
-D:\C++Projects\unreal\lp\ScriptingBasic\Intermediate\Build\Win64\UE4Editor\Development\ScriptingBasic\Definitions.ScriptingBasic.h
-D:\C++Projects\unreal\lp\ScriptingBasic\Source\ScriptingBasic\ScriptingBasic.h

@@ -854,3 +854,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.04.04-17.54.43:463][437]LogSlate: Window 'Message' being destroyed
 [2019.04.04-17.54.56:788][232]LogSlate: Window 'Editor Preferences' being destroyed
 [2019.04.04-17.54.56:791][232]LogSlate: Window 'Editor Preferences' being destroyed
+[2019.04.04-18.10.26:591][942]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.04.04-18.10.42:040][840]LogSlate: Window 'Project Settings' being destroyed
+[2019.04.04-18.10.42:044][840]LogSlate: Window 'Project Settings' being destroyed

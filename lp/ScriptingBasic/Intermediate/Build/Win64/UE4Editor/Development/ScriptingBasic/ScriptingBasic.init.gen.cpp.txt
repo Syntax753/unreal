@@ -1,3 +1,0 @@
-D:\C++Projects\unreal\lp\ScriptingBasic\Intermediate\Build\Win64\UE4Editor\Development\ScriptingBasic\Definitions.ScriptingBasic.h
-d:\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-d:\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

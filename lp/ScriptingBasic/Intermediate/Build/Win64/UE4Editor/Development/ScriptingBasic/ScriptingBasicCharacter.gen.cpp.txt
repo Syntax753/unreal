@@ -1,9 +1,0 @@
-D:\C++Projects\unreal\lp\ScriptingBasic\Intermediate\Build\Win64\UE4Editor\Development\ScriptingBasic\Definitions.ScriptingBasic.h
-d:\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-d:\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\C++Projects\unreal\lp\ScriptingBasic\Source\ScriptingBasic/ScriptingBasicCharacter.h
-d:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
-d:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
-d:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
-d:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-D:\C++Projects\unreal\lp\ScriptingBasic\Intermediate\Build\Win64\UE4Editor\Inc\ScriptingBasic\ScriptingBasicCharacter.generated.h
