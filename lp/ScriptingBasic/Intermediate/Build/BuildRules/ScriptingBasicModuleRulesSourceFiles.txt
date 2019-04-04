@@ -1,0 +1,3 @@
+D:\C++Projects\unreal\lp\ScriptingBasic\Source\ScriptingBasic\ScriptingBasic.Build.cs
+D:\C++Projects\unreal\lp\ScriptingBasic\Source\ScriptingBasic.Target.cs
+D:\C++Projects\unreal\lp\ScriptingBasic\Source\ScriptingBasicEditor.Target.cs

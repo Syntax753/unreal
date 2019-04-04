@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"d:/C++Projects/unreal/lp/ScriptingBasic/.vs": true,
+		"d:/C++Projects/unreal/lp/ScriptingBasic/.vscode": true,
+		"d:/C++Projects/unreal/lp/ScriptingBasic/Content": true,
+		"d:/C++Projects/unreal/lp/ScriptingBasic/Intermediate": true,
+		"d:/C++Projects/unreal/lp/ScriptingBasic/Saved": true
+	}
+}

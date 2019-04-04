@@ -1,0 +1,13 @@
+D:\C++Projects\unreal\lp\ScriptingBasic\Intermediate\Build\Win64\UE4Editor\Development\ScriptingBasic\Definitions.ScriptingBasic.h
+D:\C++Projects\unreal\lp\ScriptingBasic\Source\ScriptingBasic\ScriptingBasicGameMode.h
+d:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+d:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+d:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+d:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\C++Projects\unreal\lp\ScriptingBasic\Intermediate\Build\Win64\UE4Editor\Inc\ScriptingBasic\ScriptingBasicGameMode.generated.h
+D:\C++Projects\unreal\lp\ScriptingBasic\Source\ScriptingBasic\ScriptingBasicCharacter.h
+d:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+d:\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+d:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+d:\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\C++Projects\unreal\lp\ScriptingBasic\Intermediate\Build\Win64\UE4Editor\Inc\ScriptingBasic\ScriptingBasicCharacter.generated.h
